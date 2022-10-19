@@ -1,6 +1,6 @@
 # stock-analysis-pandas-using-tingo
-A small project that show how to do generic stock analysis using Tingo with Pandas.
-To use tingo's api create an api key(for test and individual its free) and pass it in pandas while calling function
+A small project that shows how to do a generic stock analysis using Tingo's API and Pandas. Tingo is nice SaaS service that provides trade history data.
+They also have nice set of REST APIs to get the stock prices. To use tingo's api first we need to create an api key(for test and individual its free) and pass it in pandas while calling function
 get_data_tiingo.
 
 ## How to run
